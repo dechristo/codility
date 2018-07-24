@@ -1,1 +1,1 @@
-Solutions to Codility lessons with 100% score.
+Solutions to Codility lessons in C# and Python with 100% score.
